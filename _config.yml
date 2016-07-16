@@ -1,0 +1,28 @@
+name: Indie Health by Healthpreneur
+favicon: null
+layout_spectrum: 0.9287850521504879
+typography_spectrum: 0.9357230335008353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.19194590765982866
+  lightness: 0.9411787833087146
+  saturation: 0.48075592098757625
+  rhythmicContrast: 0.06257677124813199
+purpose: []
